@@ -2,4 +2,5 @@ test/
 .venv/
 *.out
 main*
+!main*.c
 output
