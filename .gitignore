@@ -3,4 +3,6 @@ test/
 *.out
 main*
 !main*.c
+!main*.cpp
+!main*.py
 output
